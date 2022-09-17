@@ -2,7 +2,7 @@
 Generate Password.
 
 # Usage
-Download source code via `Releases` tab or ![this](https://github.com/SuperProCoolName/password_generator/releases/tag/Release) link.
+Download source code via `Releases` tab or [this](https://github.com/SuperProCoolName/password_generator/releases/tag/Release) link.
 
 To generate password simply run the .exe file.
 
